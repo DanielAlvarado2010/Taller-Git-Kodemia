@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Primer linea desde master
 Segunda linea desde master
+=======
+Primer linea de conflictiva
+
+>>>>>>> conflictiva-real
